@@ -66,7 +66,7 @@ struct MotionAnimationView: View {
           isAnimating = true
         })
         
-        Text("Width: \(Int(geometry.size.width)) Height: \(Int(geometry.size.height))")
+//        Text("Width: \(Int(geometry.size.width)) Height: \(Int(geometry.size.height))")
       } //: ZSTACK
       .drawingGroup()
     } //: GEOMETRY
