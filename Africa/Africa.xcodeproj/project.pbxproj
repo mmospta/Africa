@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8D16DEC725E10EDF0044F10F /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D16DEC625E10EDF0044F10F /* MotionAnimationView.swift */; };
+		8D87B96C25EE3D1200F1A764 /* AnimalGridItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D87B96B25EE3D1200F1A764 /* AnimalGridItemView.swift */; };
 		8DC578B825DFA0EE003420C0 /* VideoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DC578B725DFA0EE003420C0 /* VideoModel.swift */; };
 		8DC578BB25DFA467003420C0 /* VideoListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DC578BA25DFA467003420C0 /* VideoListItemView.swift */; };
 		8DC578C025E0375D003420C0 /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DC578BF25E0375D003420C0 /* VideoPlayerView.swift */; };
@@ -51,6 +52,7 @@
 
 /* Begin PBXFileReference section */
 		8D16DEC625E10EDF0044F10F /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
+		8D87B96B25EE3D1200F1A764 /* AnimalGridItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AnimalGridItemView.swift; path = Africa/App/AnimalGridItemView.swift; sourceTree = SOURCE_ROOT; };
 		8DC578B725DFA0EE003420C0 /* VideoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoModel.swift; sourceTree = "<group>"; };
 		8DC578BA25DFA467003420C0 /* VideoListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoListItemView.swift; sourceTree = "<group>"; };
 		8DC578BF25E0375D003420C0 /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
@@ -198,6 +200,7 @@
 		8DCBD1D925DCF7A10083A61B /* View */ = {
 			isa = PBXGroup;
 			children = (
+				8D87B96B25EE3D1200F1A764 /* AnimalGridItemView.swift */,
 				8DCBD1DA25DCF7B00083A61B /* CoverImageView.swift */,
 				8DCBD1E725DD87520083A61B /* AnimalListItemView.swift */,
 				8DCBD1EE25DD94020083A61B /* AnimalDetailView.swift */,
@@ -334,6 +337,7 @@
 				8DC578B825DFA0EE003420C0 /* VideoModel.swift in Sources */,
 				8DCBD1D425DCF2B60083A61B /* GalleryView.swift in Sources */,
 				8DC578C725E0F15C003420C0 /* LocationModel.swift in Sources */,
+				8D87B96C25EE3D1200F1A764 /* AnimalGridItemView.swift in Sources */,
 				8DCBD1F525DE72200083A61B /* InsetGalleryView.swift in Sources */,
 				8DC578BB25DFA467003420C0 /* VideoListItemView.swift in Sources */,
 				8DCBD1E525DD690D0083A61B /* CodableBundleExtension.swift in Sources */,
